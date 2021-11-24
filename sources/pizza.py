@@ -45,5 +45,6 @@ RECIPES = {
     'chef': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3, 'gorgonzola': 2,'mushroom': 3},
         'price': 15,
+        'sauce': 'tomato'
     }
 }
